@@ -215,6 +215,9 @@ body {
 .mission-text p{
     color: #fff;
 }
+.mission-text h2{
+    font-size: 40px;
+}
 .mission-text-box{
     width: 550px;
 }
